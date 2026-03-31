@@ -1,0 +1,25 @@
+STUDENT_NAME="Sonali Tripathy"
+REG_NUMBER="24BET10018"
+SOFTWARE="VLC Media Player"
+
+echo "=== System Identity Report ==="
+echo "Student: $STUDENT_NAME ($REG_NUMBER)"
+echo "Software: $SOFTWARE"
+echo ""
+
+echo "[ System Info ]"
+# fetch the OS name from /etc/os-release, strip quotes, or fallback to 'Unknown Linux'
+echo "Distro: $(cat /etc/os-release 2>/dev/null | grep PRETTY_NAME | cut -d= -f2 | tr -d '"' || echo "Unknown Linux")"
+echo "Kernel: $(uname -r)"
+echo "User: $(whoami)"
+echo "Home: $HOME"
+echo "Uptime: $(uptime -p 2>/dev/null || uptime)"
+echo "Date: $(date '+%A, %d %b %Y')"
+echo "Time: $(date '+%H:%M:%S')"
+echo ""
+
+echo "[ License Info ]"
+echo "Linux uses the GPL v2 license. You can use, study, modify and share it."
+echo "However, any modified version must also be GPL."
+echo ""
+echo "VLC is GPL v2+ and its core libVLC is LGPL v2+."

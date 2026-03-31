@@ -1,0 +1,11 @@
+﻿Open Source Manifesto
+Author: Sonali Tripathy
+Date: 29 Mar 2026
+------------------------
+
+I rely on VLC Media Player on a daily basis. It was built by folks who chose to share their code instead of hiding it.
+
+To me, freedom is collaboration. Software freedom allows anyone to learn and improve tools.
+
+If I could build something to give back, it would be a free educational platform.
+Sharing knowledge is how we build a better world.

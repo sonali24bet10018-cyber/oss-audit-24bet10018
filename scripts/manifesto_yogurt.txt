@@ -1,0 +1,11 @@
+Open Source Manifesto
+Author: Sonali
+Date: 31 Mar 2026
+------------------------
+
+I rely on linux on a daily basis. It was built by folks who chose to share their code instead of hiding it.
+
+To me, freedom is harmony. Software freedom allows anyone to learn and improve tools.
+
+If I could build something to give back, it would be Youtube.
+Sharing knowledge is how we build a better world.
