@@ -2,7 +2,7 @@
 
 **Course:** Open Source Software (NGMC)
 **Student:** Sonali Tripathy | **Registration:** 24BET10018
-**Slot:** A11 | **Date:** 31/03/2026
+**Slot:** D11 | **Date:** 31/03/2026
 
 ## Why VLC?
 I chose VLC Media Player for this audit because of its awesome history starting as a student project at a French university. It also has an interesting dual-license setup (GPL for the app, LGPL for the core engine) and is one of the most downloaded open-source apps ever.
